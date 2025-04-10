@@ -54,7 +54,7 @@ public class MainPage{
     private static final String SURYA_USERNAME ="surya_ind_admin";
     private static final String SURYA_PASSWORD ="surya@1234";
 
-    @SuppressWarnings("unchecked")
+
     public MainPage(String sectionName){
         this.sectionName=sectionName.toLowerCase();
         this.primaryStage=new Stage();
